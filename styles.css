@@ -89,6 +89,14 @@ h1 .score {
     font-size: 15px;
 }
 
+h6 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: lightseagreen;
+    margin-top: 700px;
+    margin-left: 750px;
+}
+
 a {
     position:absolute;
     color: white;
